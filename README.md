@@ -1,97 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=William%20Serafin%20Zatt%20👨‍💻&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%22A%20tecnologia%20é%20a%20ponte%20entre%20a%20ideia%20e%20a%20realização.%22&descAlignY=55&descAlign=50"/>
-</p>
+# 🧑‍💻 WILLIAM SERAFIN ZATT
+### Desenvolvedor Full-Stack | JavaScript/TypeScript & Ecossistema React
 
-<h2 align="center">Desenvolvedor Full-Stack</h2>
+## 🎯 Sobre Mim
+[cite_start]Estudante de Análise e Desenvolvimento de Sistemas [cite: 7][cite_start], sou apaixonado por tecnologia e aprendizado contínuo[cite: 7].
 
-<p align="center">
-  📍 Rio Grande do Sul, Brasil
-</p>
+[cite_start]Possuo experiência em desenvolvimento **Full-Stack** com foco em tecnologias modernas e sigo metodologias ágeis[cite: 8]. [cite_start]Meu compromisso é com **boas práticas de codificação** (Clean Code) [cite: 18] [cite_start]e com a criação de aplicações eficientes e otimizadas para melhorar a **experiência do usuário (UX/UI)**[cite: 9, 19].
 
----
+## 🛠️ Stack de Tecnologia
 
-## 🎯 Objetivo
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e aprendizado contínuo.  
-Busco desenvolver aplicações eficientes, escaláveis e com foco na **experiência do usuário**, utilizando boas práticas e metodologias ágeis.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | [cite_start]JavaScript, TypeScript, Python, Java, PHP [cite: 14] |
+| **Front-End** | [cite_start]React, React Native [cite: 14] |
+| **Back-End** | [cite_start]Node.js [cite: 14] |
+| **Banco de Dados** | [cite_start]MySQL, PostgreeSQL [cite: 14] |
+| **Controle de Versão** | [cite_start]Git/GitHub [cite: 15] |
+| **Qualidade** | [cite_start]Testes automatizados e Depuração de código [cite: 16] |
 
----
+## 🎓 Formação & Desenvolvimento
 
-## 🧠 Competências Técnicas:
+* [cite_start]**Análise e Desenvolvimento de Sistemas** (Tecnólogo - Em Andamento) [cite: 12]
+    * [cite_start]*Centro Universitário UNIFTEC* [cite: 11]
 
-### 💻 Linguagens e Tecnologias
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
+### Cursos & Certificações Relevantes
+[cite_start]Sou proativo na busca por conhecimento e aprimoramento[cite: 7, 19], com destaque para:
 
-### 🧩 Outras habilidades
-- Testes automatizados e depuração de código  
-- Clean Code e padrões de projeto  
-- Metodologias ágeis (Scrum, Kanban)  
-- UX/UI e design responsivo  
+* [cite_start]**Front-End em React** - ADA Tech [cite: 25, 29]
+* [cite_start]**Introdução ao Python** - ADA Tech [cite: 26, 31]
+* [cite_start]**JavaScript Completo** - Curso em Video [cite: 28]
+* [cite_start]**Versionamento com Git e GitHub** - Curso em Video [cite: 32]
+* [cite_start]**Java em POO** - Curso em Video [cite: 33]
 
----
+## 🌐 Idiomas
+* [cite_start]Português: Nativo [cite: 21]
+* [cite_start]Inglês: Avançado [cite: 22]
+* [cite_start]Espanhol: Básico [cite: 22]
 
-## 💡 Competências Gerais
-
-- Trabalho em equipe e comunicação técnica  
-- Aprendizado contínuo e resolução de problemas  
-- Foco na experiência do usuário  
-- Proatividade e comprometimento  
+## 📬 Contato
+| Plataforma | Detalhes |
+| :--- | :--- |
+| [cite_start]**E-mail** | williamszatt@gmail.com [cite: 4] |
+| [cite_start]**LinkedIn** | linkedin.com/in/williamzatt [cite: 5] |
+| [cite_start]**GitHub** | github.com/WilliamSZatt [cite: 5] |
+| **Telefone** | (54) [cite_start]99700-0991 [cite: 3] |
 
 ---
-
-## 🎓 Formação
-
-**Centro Universitário Uniftec:** 📚 *Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)*
-
----
-
-## 📜 Cursos Complementares
-
-- **JavaScript Completo** – Curso em Vídeo  
-- **Front-End em React** – ADA Tech  
-- **React** – DIO  
-- **Introdução ao Python** – ADA Tech  
-- **Python do Básico ao Avançado** – Curso em Vídeo  
-- **Versionamento com Git e GitHub** – Curso em Vídeo  
-- **Java em POO** – Curso em Vídeo  
-
----
-
-## 🏅 Certificações
-
-- **Inglês** – Quiron  
-- **Intercâmbio** – ISI Dublin  
-- **Front-End em React** – ADA Tech  
-- **Introdução ao Python** – ADA Tech  
-
----
-
-## 🌍 Idiomas
-
-- 🇧🇷 **Português:** Nativo  
-- 🇬🇧 **Inglês:** Avançado  
-- 🇪🇸 **Espanhol:** Básico  
-
----
-
-## 🤝 Fale Comigo
-
-<p align="center">
-  <a href="mailto:williamszatt.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/williamzatt" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[cite_start]*Proativo, comprometido com boas práticas e aprendizado contínuo.* [cite: 9, 19]
